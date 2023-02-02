@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Brenda Isela Luna Pérez; brenda.lunezp83@anahuac.mx; Lunap23; 9515094055
