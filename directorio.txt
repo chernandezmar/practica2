@@ -1,1 +1,3 @@
 Nombre; email; githubaccount; telefono
+
+Josie Hernández Arrazola; josie.hernandezar@anahuac.mx; Josie-HA; 951 278 92 83
