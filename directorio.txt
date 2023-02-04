@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Karina Ramírez; carmen.ramirezva@anahuac.mx; karmzz; 9512345678
