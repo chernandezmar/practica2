@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Axel Aquino Jiménez; axel.aquinoji@anahuac.mx; AxelAquino; 9512485111
