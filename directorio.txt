@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Arantxa Garzon; arantxa.garzonqu@anahuac.mx; ArantxaGarzon; 9511406241
