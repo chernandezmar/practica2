@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Evelyn Garnica Victoria; evelyn.garnicavi@anahuac.mx; Ev3lyn-01; 951 232 3717
