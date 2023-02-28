@@ -1,1 +1,2 @@
 Nombre; email; githubaccount; telefono
+Joshua Velasco; joshua.velascohe@anahuac.mx; TheJoshua22; 9516546791
